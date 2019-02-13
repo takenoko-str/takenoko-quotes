@@ -225,8 +225,6 @@ takenoko-quotes
 > 私がかなたを見渡せたのだとしたら、それはひとえに巨人の肩の上に乗っていたからです。
 - アイザック・ニュートン 『ロバート・フックとの往復書簡』
 
-A-level people want to work with A-level people. B-level people tend to hire C-level people.──Silicon Valley proverb
-
 > Ａクラスの人は、Ａクラスの人と一緒に仕事をしたがる
 > Ｂクラスの人は、Ｃクラスの人を採用したがる
 - シリコンバレーの格言
